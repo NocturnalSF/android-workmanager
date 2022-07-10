@@ -31,7 +31,7 @@ Pre-requisites
 * Android Studio 3.6 or later and you know how to use it.
 
 * Make sure Android Studio is updated, as well as your SDK and Gradle.
-Otherwise, you may have to wait for a while until all the updates are done.
+  Otherwise, you may have to wait for a while until all the updates are done.
 
 * A device or emulator that runs API level 16+
 
@@ -48,7 +48,7 @@ Getting Started
 ---------------
 
 1. [Install Android Studio](https://developer.android.com/studio/install.html),
-if you don't already have it.
+   if you don't already have it.
 2. Download the sample.
 2. Import the sample into Android Studio.
 3. Build and run the sample.
@@ -69,7 +69,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
